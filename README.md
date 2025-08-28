@@ -1,19 +1,19 @@
 ## Repository name
-Your repostiory should be named something like `async-final-project-color-name`
-Example: `async-final-project-teal-Anas`
+`async-final-project-neon-domingo`
 
 ## Dataset
-[Dataset Name](https://www.example.com/link-to-dataset)
+[Cars Dataset](https://www.kaggle.com/datasets/abdulmalik1518/cars-datasets-2025)
 
 ## Why did I chose this dataset?
 
-[Placeholder for answer]
+This year I finally gathered the resources to own a car; used but still 4 wheels and seats. I was only ever taught to buy a car used as it was a lot better than financing one which got me curious about the current models of cars for future buyers and how various brands, fuel types, and car prices differ. Cars are an investment and as with most investments, you'd want to know just what exactly you're getting when investing
 
+My project involves analyzing the car dataset to identify trends, such as how price relates to horsepower, engine type, or fuel choice. I also examined electric and hybrid cars and compared their acceleration against other fuel types, along with calculating average prices per company. The questions only cover the trend analysis, so for the ML model training and testing you will need to read the Jupyter Notebook, where I included additional visuals and commentary to illustrate what I was doing with the model.
 ## Progress
-- [/] Picked dataset
-- [/] Defined 10 questions
-- [/] Answered 10 questions using Pandas
-- [] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
+- [x] Picked dataset
+- [x] Defined 10 questions
+- [x] Answered 10 questions using Pandas
+- [x] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
