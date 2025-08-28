@@ -17,9 +17,9 @@ My project involves analyzing the car dataset to identify trends, such as how pr
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
+- [x] Question 1: What are the Top 5 Companies possessing the most car models in the dataset?
+  - Answer: The top 5 companies with the most car models are Nissan (149), Volkswagen (109), Porsche (96), Mazda (87), and Mitsubishi (60).
+  - Visualization: ![Q1 Visualization](vis/q1.png)
 
 - [ ] Question 2: [Brief description of the task]
   - Answer: [Placeholder for answer]
@@ -56,3 +56,4 @@ My project involves analyzing the car dataset to identify trends, such as how pr
 - [ ] Question 10: [Brief description of the task]
   - Answer: [Placeholder for answer]
   - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
+
