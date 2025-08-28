@@ -21,39 +21,42 @@ My project involves analyzing the car dataset to identify trends, such as how pr
   - Answer: The top 5 companies with the most car models are Nissan (149), Volkswagen (109), Porsche (96), Mazda (87), and Mitsubishi (60).
   - Visualization: ![Q1 Visualization](vis/q1.png)
 
-- [ ] Question 2: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
+- [x] Question 2: What is the average price for each fuel type?
+  - Answer: The average price for each fuel type is as follows: Electric ($139,437), Petrol ($77,539), Hybrid ($64,557), Diesel ($54,260), and plug in hybrid ($1,100,000). The plug-in hybrid price is an outlier, likely due to a single expensive car.
+  - Visualization: ![Q2 Visualization](vis/q2.png)
 
-- [ ] Question 3: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
+- [x] Question 3: Question 3: What is the relationship between HorsePower and Performance (0-100 KM/H)?
+  - Answer: There is an inverse relationship between HorsePower and Performance. As HorsePower increases, the time to accelerate from 0 to 100 KM/H decreases, which makes sense as more horsepower allows for faster acceleration.
+  - Visualization: ![Q3 Visualization](vis/q3.png)
 
-- [ ] Question 4: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
 
-- [ ] Question 5: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
+- [x] Question 4: What are the Top 3 most common engine types?
+  - Answer: The three most common engine types are V8, V6, and I4.
+  - Visualization: ![Q4 Visualization](vis/q4.png)
 
-- [ ] Question 6: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
 
-- [ ] Question 7: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
+- [x] Question 5: What is the relationship between Cars Price and HorsePower?
+  - Answer: There is a positive linear relationship between car price and horsepower. Generally, as horsepower increases, the price of the car also increases.
+  - Visualization: ![Q5 Visualization](vis/q5.png)
 
-- [ ] Question 8: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
+- [x] Question 6: What are the top 5 most common engines for cars priced under $50,000?
+  - Answer: The top 5 most common engines for cars under $50,000 are V6, V8, 2.0L Turbo, I4, and 1.5L Turbo.
+  - Visualization: ![Q6 Visualization](vis/q6.png)
 
-- [ ] Question 9: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
 
-- [ ] Question 10: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
+- [x] Question 7: What is the relationship between number of seats and car prices?
+  - Answer: The most common number of seats in the dataset is 5, but there is no strong linear relationship between the number of seats and car prices.
+  - Visualization: ![Q7 Visualization](vis/q7.png)
+
+- [x] Question 8: How does the distribution of horsepower vary across different fuel types?
+  - Answer: The distribution of horsepower varies significantly across different fuel types. Electric and plug-in hybrid cars show a wide range of horsepower, including some of the highest values, while petrol and diesel cars tend to be more clustered in the lower horsepower range.
+  - Visualization: ![Q8 Visualization](vis/q8.png)
+
+- [x] Question 9: What are the top 5 car models by their performance (0-100KM/H)?
+  - Answer: The top 5 car models with the best performance (lowest acceleration time) are: Tesla Model S Plaid (2.1 sec), Porsche 911 GT3 RS (2.2 sec), Lamborghini Huracan Performante (2.3 sec), Ferrari SF90 Stradale (2.5 sec), and Tesla Model X Plaid (2.5 sec).
+  - Visualization: ![Q9 Visualization](vis/q9.png)
+
+- [x] Question 10: What is the relationship between Engine types and Torque?
+  - Answer: There's no strong direct relationship between engine types and torque, as the same engine type can produce a wide range of torque values depending on other factors like displacement and tuning. However, certain engine types like V8 and V12 tend to have higher average torque values.
+  - Visualization: ![Q10 Visualization](vis/q10.png)
 
